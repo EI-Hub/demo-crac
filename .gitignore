@@ -31,3 +31,8 @@ build/
 
 ### VS Code ###
 .vscode/
+crac
+.mvn
+stats-restore
+mvnw
+mvnw.cmd
